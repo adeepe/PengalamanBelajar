@@ -1,3 +1,4 @@
 haloo ini adalah tes belajar melakukan merge
 
-ini bagian dari main branch 
+
+ini bagian dari development 
